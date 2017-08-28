@@ -1,0 +1,17 @@
+{
+  "name": "gruverswiki",
+  "scripts": {
+  },
+  "env": {
+    "Buildpack": "nodejs",
+    "NODE_ENV": "production"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
